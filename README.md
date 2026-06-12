@@ -27,9 +27,9 @@ Este espaço reúne projetos, estudos e experimentos que transformam aprendizado
 
 ## Direção
 
-Aprender. 
-Construir.  
-Melhorar.
+`Aprender.` 
+`Construir.` 
+`Melhorar.`
 
 ---
 
