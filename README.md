@@ -1,45 +1,82 @@
-# 👋 Olá, Gabriel aqui! Bem-vindo ao meu Github!
+Desenvolvedor em construção, com foco em **Python**, desenvolvimento web e soluções em nuvem.
 
-Adoro tecnologia e programação, e estou aplicando para conseguir uma vaga como desenvolvedor Júnior na área de TI. Motivado por novos desafios, estou desenvolvendo minhas habilidades em Python e C#, criando projetos que alimentam meu portfólio e me aproximam do objetivo de entrar no mercado como programador.
+  Deixo qaqui o registro do que estou construindo, estudando, testando e melhorando. Cada projeto aqui existe para resolver alguma coisa, organizar uma ideia, automatizar um processo ou transformar conhecimento em algo funcional.
 
----
-
-## 🎯 Objetivos:
-
-- **Dominar Python** para criar aplicações práticas e funcionais.
-- **Aprimorar minhas habilidades em C#**, com projetos interessantes que demonstram o meu aprendizado.
-- **Conquistar uma vaga como desenvolvedor Júnior** e começar minha carreira na área de TI, ajudando a criar soluções reais de forma simples.
+Meu foco atual está em **Python**, **AWS**, **HTML**, **CSS**, **JavaScript**, **Node.js**, APIs e aplicações que tenham utilidade real.
 
 ---
 
-## 💻 Habilidades:
+## Sobre o meu trabalho
 
-- **Linguagens de Programação:**  
-  Python (em progresso) | C# (em progresso) | .NET | Next.js | HTML | CSS | JavaScript
-  
-- **Ferramentas e Tecnologias:**  
-  Git | GitHub | Visual Studio | Ferramentas de desenvolvimento modernas. 
-  
-- **Outros Conhecimentos:**  
-  Montagem e manutenção de PCs — além de um fascínio pela otimização de hardware e software.
+Eu acredito que tecnologia precisa servir para algo.
 
----
+Código não é só sintaxe. É ferramenta. É estrutura. É solução. É impacto.
 
-## 📚 Atualmente Estudando:
+Meu objetivo é desenvolver projetos que sejam simples de entender, úteis na prática e capazes de melhorar processos, economizar tempo, organizar informações ou facilitar a vida de alguém.
 
-- **Python:** Do zero ao nível de trabalho, com foco em automação e desenvolvimento de soluções práticas.
-- **C#:** Desenvolvendo projetos práticos para aplicar os conceitos aprendidos.
-- **Web Development:** Aprofundando meu conhecimento em .NET, Next.js, HTML, CSS, e JavaScript, com foco em aplicações responsivas e modernas.
+Estou construindo minha base como desenvolvedor com consistência, estudando o que preciso estudar e aplicando o que aprendo em projetos reais.
 
 ---
 
-## 🎨 Interesses:
+## Foco atual
 
-- **Tecnologia & Programação:** Quero explorar novas linguagens, frameworks, e tendências de tecnologia.
-- **Cultura Pop & Memes:** Criador de conteúdo casual que adora misturar programação com bom humor e cultura pop.
+- Desenvolvimento com **Python**
+- Automação de tarefas e processos
+- Desenvolvimento web com **HTML, CSS e JavaScript**
+- Uso de **Node.js** em ferramentas e projetos web
+- Criação e consumo de **APIs REST**
+- Projetos e estudos com **AWS / Cloud Computing**
+- Organização de código, versionamento e documentação com **Git e GitHub**
 
 ---
 
-### 🚀 Vamos conectar!
+## Tecnologias que venho utilizando
 
-Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução! Sempre aberto a aprender com a comunidade e compartilhar o que tem de novidade.
+### Linguagens
+
+`Python` `JavaScript` `HTML` `CSS`
+
+### Web
+
+`HTML5` `CSS3` `JavaScript` `Node.js`
+
+### Backend e integrações
+
+`Python` `APIs REST` `JSON` `Django`
+
+### Cloud e ferramentas
+
+`AWS` `Cloud Computing` `Git` `GitHub` `Visual Studio Code` `Vercel`
+
+---
+
+## Em desenvolvimento
+
+No momento, estou aprofundando meu conhecimento principalmente em **Python** e **Cloud Computing com AWS**, aplicando esses estudos em projetos práticos.
+
+Também venho desenvolvendo projetos com web, APIs e automações, sempre buscando entender melhor como construir soluções funcionais, organizadas e úteis.
+
+---
+
+## Minha forma de aprender
+
+Este espaço mostra minha evolução, mas também mostra minha direção: construir soluções com propósito, clareza e impacto positivo.
+
+---
+
+## O que você vai encontrar aqui
+
+Projetos de estudo, experimentos, aplicações e repositórios que representam minha evolução como desenvolvedor.
+
+Principalmente:
+
+- Projetos em **Python**
+- Aplicações web com **HTML, CSS e JavaScript**
+- Estudos e práticas com **AWS**
+- APIs e integrações
+- Automações
+- Projetos de portfólio
+- Documentação do meu processo de aprendizado e construção
+
+---
+
