@@ -1,9 +1,9 @@
 
 # Gabriel Max
 
-Construo soluções com tecnologia.
+Construindo soluções com tecnologia.
 
-Este espaço reúne projetos, estudos e experimentos que transformam aprendizado em prática: código, automações, aplicações web, APIs, cloud e ideias.
+Este espaço reúne projetos, estudos e experimentos: automações, aplicações web, APIs, cloud e ideias.
 
 ---
 
