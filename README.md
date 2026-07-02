@@ -1,35 +1,33 @@
-
 # Gabriel Max
 
-Construindo soluções com tecnologia.
+Desenvolvedor Backend Júnior em formação, com foco em Python e automação.
 
-Este espaço reúne projetos, estudos e experimentos: automações, aplicações web, APIs, cloud e ideias.
+Estudando Análise e Desenvolvimento de Sistemas (Uniasselvi) e me aprofundando em Python, lógica de programação e automação de processos. Este espaço reúne meus projetos e estudos enquanto evoluo para uma vaga backend/full stack júnior remota.
 
 ---
 
 ## Em foco
 
-- Python
-- Desenvolvimento web
-- APIs e integrações
-- Automação
-- AWS / Cloud Computing
-- Git e GitHub
-- Organização, documentação e melhoria contínua
+- Python (POO)
+- Automação de processos e scripts
+- JavaScript, HTML, CSS
+- Lógica de programação e boas práticas com Git/GitHub
+- Estudando: Inteligência Artificial aplicada, integração com APIs
 
 ---
 
 ## Tecnologias em uso
 
-`Python` `JavaScript` `HTML` `CSS` `Node.js` `Django` `APIs REST` `AWS` `Git` `GitHub`
+`Python` `JavaScript` `HTML` `CSS` `Tkinter` `Git` `GitHub`
+
+---
+
+## Projetos
+
+- **[My-Portfolio](https://github.com/devgmax/My-Portfolio)** — site pessoal feito com HTML, CSS, JavaScript e React/Next.js para apresentar meus projetos e trajetória.
 
 ---
 
 ## Direção
 
-`Aprender.` 
-`Construir.` 
-`Melhorar.`
-
----
-
+`Aprender.` `Construir.` `Melhorar.`
