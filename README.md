@@ -24,7 +24,7 @@ Estudando Análise e Desenvolvimento de Sistemas (Uniasselvi) e me aprofundando 
 
 ## Projetos
 
-- **[My-Portfolio](https://github.com/devgmax/My-Portfolio)** — site pessoal feito com HTML, CSS, JavaScript e React/Next.js para apresentar meus projetos e trajetória.
+- **[My-Portfolio](https://github.com/devgmax/My-Portfolio)** — site pessoal feito com HTML, CSS, JavaScript e React/Next.js para apresentar meus projetos e trajetória. (Em progresso)
 
 ---
 
