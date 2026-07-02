@@ -18,7 +18,7 @@ Estudando Análise e Desenvolvimento de Sistemas (Uniasselvi) e me aprofundando 
 
 ## Tecnologias em uso
 
-`Python` `JavaScript` `HTML` `CSS` `Tkinter` `Git` `GitHub`
+`Python` `JavaScript` `HTML` `CSS` `Tkinter` `Git`
 
 ---
 
